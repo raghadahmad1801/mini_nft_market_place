@@ -1,11 +1,10 @@
+# Mini NFT Marketplace
+
 A Flutter application focused on building a clean and modern user interface for an NFT marketplace.
 
-Technologies
+### Technologies
+- Flutter
+- Dart
 
-Flutter
-
-Dart
-
-Development Scope
-
-UI Design and Implementation
+### Development Scope
+- UI Design and Implementation

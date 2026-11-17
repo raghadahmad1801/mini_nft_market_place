@@ -1,16 +1,11 @@
-# mini_nft_marketplace
+A Flutter application focused on building a clean and modern user interface for an NFT marketplace.
 
-A new Flutter project.
+Technologies
 
-## Getting Started
+Flutter
 
-This project is a starting point for a Flutter application.
+Dart
 
-A few resources to get you started if this is your first Flutter project:
+Development Scope
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+UI Design and Implementation
